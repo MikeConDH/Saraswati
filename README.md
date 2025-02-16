@@ -26,4 +26,11 @@ Fetch.ai: deploy to internet in agentverse
 
 Hugging Face: Docker container in Spaces for demo
 
+## Spec
+
+All the tech details are availabe in the spec:
+https://docs.google.com/document/d/1phv68LTMdK9XpiVKLp1MX7rTov8w3oPWjwGrsu4AlZU/edit?usp=sharing
+
+
+
 
