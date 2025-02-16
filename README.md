@@ -6,9 +6,11 @@ Saraswati is an AI-driven system designed to support families navigating the str
 
 ## Actors
 <Student> High school preparing for college admission
-<Councilor> The garden variety high school counselor 
+
 <Parent> The student’s parent
+
 (Buddy) ChatBot acting as an online counselor and therapist.
+
 (eCounciler) ChatBot acting as an effective counselor.
 
 ## Tech
