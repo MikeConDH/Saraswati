@@ -1,0 +1,22 @@
+[project]
+name = "aie5-deploypythonicrag"
+version = "0.1.0"
+description = "Simple Pythonic RAG App"
+readme = "README.md"
+requires-python = ">=3.11, <3.12"
+dependencies = [
+    "chainlit>=2.0.4",
+    "numpy>=1.26.4,<2.0.0",  # Changed from >=2.2.2
+    "openai>=1.59.9",
+    "pydantic==2.10.1",
+    "pypdf2>=3.0.1",
+    "websockets>=14.2",
+    "swarms",
+    "torch",
+    "transformers",
+    "langchain",
+    "langchain-openai",
+    "langchain-community>=0.3.17",
+    "pymupdf",
+    "qdrant-client",
+]
