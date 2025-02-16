@@ -50,7 +50,7 @@ https://docs.google.com/document/d/1phv68LTMdK9XpiVKLp1MX7rTov8w3oPWjwGrsu4AlZU/
    
 5) Run the app local using Chainlit
    
-      (.venv) uv run chainlit run app.py -w
+      (.venv) uv run chainlit run rag_saraswati.py -w
    
 6) Test in web brower.  
 
