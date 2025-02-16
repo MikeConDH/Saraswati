@@ -17,9 +17,13 @@ Buddy: ChatBot acting as an online counselor and therapist.
 
 ## Tech
 Swarms: facilitating the orchestration for a multple agent system
+
 OpenAI: embedding and foundation models: gpt-4o
+
 Qdrant: vector database
+
 Fetch.ai: deploy to internet in agentverse
+
 Hugging Face: Docker container in Spaces for demo
 
 
